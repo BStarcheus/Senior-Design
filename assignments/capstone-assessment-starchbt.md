@@ -1,3 +1,5 @@
+[< Back](../README.md)
+
 # Individual Capstone Assessment - Brandon Starcheus
 
 Over the course of the next year I will begin my journey in reinforcement learning (RL), which will continue into the following year for my MS Thesis. I am currently working with my advisor to find a specific problem related to a real-life application or games (a common RL application). There are many different methods and strategies for implementing an RL solution, but they all revolve around creating an agent which explores an environment to learn based on the reward they receive. It learns by trial and error, similar to how children learn how to interact with the world around them. There is no "training data" or rules to learn from as a baby, but you instead learn from interacting with the environment. RL implementations can vary greatly, whether they use any combination of value functions, policies, and models. My goal for the project is to critically analyze the problem and construct an RL solution that fits the problem and brings great value to the overall solution.
