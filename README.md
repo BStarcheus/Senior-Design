@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-1. Team Names & Project Abstract
+1. [Team Names](./assignments/project-description.md) & [Project Abstract](./assignments/project-description.md#abstract)
 2. [Project Description](./assignments/project-description.md)
 3. [User Stories](./assignments/user-stories.md) & [Design Diagrams](./design-diagrams/README.md)
 4. [Project Tasks](./assignments/tasklist.md) & [Timeline](./assignments/milestone-timeline.md)
@@ -13,4 +13,4 @@
 7. [Self-Assessment Essay](./assignments/capstone-assessment-starchbt.md)
 8. [Professional Biography](./assignments/bio-starchbt.md)
 9. [Budget](./assignments/budget.md)
-10. Appendix
+10. [Appendix](./assignments/appendix.md)
