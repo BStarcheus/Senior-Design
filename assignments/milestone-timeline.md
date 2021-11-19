@@ -8,7 +8,8 @@ Upon reaching this milestone I will have an RL agent that can play a deception-b
 Completion Date: 1/28/22
 
 Deliverables
-- Deception-based game program that is programmatically interfaceable
+- Environment that completely represents the board and rules of Coup
+- Desktop Application that interfaces with the environment to allow for gameplay between the computer and human opponents
 - RL agent that is capable of improving over many iterations of playing the deception-based game
 - Documentated evidence of agent's improvement, and results of play against human opponents
 
@@ -36,10 +37,11 @@ Deliverables
 
 | Task | Start Date | Completion Date |
 |-|-|-|
-| Design and develop a deception-based game program that is programmatically interfaceable | 10/22/21 | 11/19/21 |
-| Research various RL techniques to determine the most applicable strategy for this problem (MC vs TD, etc) | 11/5/21 | 12/17/21 |
-| Investigate the need for specific RL agent initialization (instead of starting with a clean slate) | 11/5/21 | 12/17/21 |
-| Develop an RL agent that is capable of improving over many iterations of playing the deception-based game | 11/26/21 | 1/28/22 |
+| Design and develop an OpenAI Gym environment to represent the board and rules of Coup | 11/5/21 | 1/28/21 |
+| Design and develop a desktop application that interfaces with the Coup environment to allow for gameplay between the computer and human opponents | 11/5/21 | 1/28/21 |
+| Research various RL techniques to determine the most applicable strategy for this problem (MC vs TD, etc) | 11/5/21 | 1/28/21 |
+| Investigate the need for specific RL agent initialization (instead of starting with a clean slate) | 11/5/21 | 1/28/21 |
+| Develop an RL agent that is capable of improving over many iterations of playing Coup | 11/26/21 | 1/28/22 |
 | Test the agent for improvement over many games with human opponent(s) | 1/7/22 | 1/28/22 |
 | Milestone 1: RL Agent |  | 1/28/22 |
 | Research RL methods for self-play | 1/14/22 | 2/11/22 |
@@ -53,13 +55,14 @@ Deliverables
 # Effort Matrix
 | Task | Effort |
 |-|-|
-| Design and develop a deception-based game program that is programmatically interfaceable | 10% |
+| Design and develop an OpenAI Gym environment to represent the board and rules of Coup | 10% |
+| Design and develop a desktop application that interfaces with the Coup environment to allow for gameplay between the computer and human opponents | 10% |
 | Research various RL techniques to determine the most applicable strategy for this problem (MC vs TD, etc) | 10% |
 | Investigate the need for specific RL agent initialization (instead of starting with a clean slate) | 5% |
-| Develop an RL agent that is capable of improving over many iterations of playing the deception-based game | 20% |
+| Develop an RL agent that is capable of improving over many iterations of playing Coup | 15% |
 | Test the agent for improvement over many games with human opponent(s) | 5% |
 | Research RL methods for self-play | 10% |
-| Develop a framework for self-play, where many agents play against each other and all learn from their experiences | 20% |
+| Develop a framework for self-play, where many agents play against each other and all learn from their experiences | 15% |
 | Validate the agent's improvement and convergence via self-play | 5% |
 | Test the converged agent against a human opponent to evaluate learned skill | 5% |
 | Document how the agent learned to use deception over many iterations and investigate the strategies it uses | 10% |

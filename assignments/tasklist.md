@@ -4,13 +4,15 @@
 
 All tasks are assigned to Brandon Starcheus
 
-- Design and develop a deception-based game program that is programmatically interfaceable
+- Design and develop an OpenAI Gym environment to represent the board and rules of Coup
+
+- Design and develop a desktop application that interfaces with the Coup environment to allow for gameplay between the computer and human opponents
 
 - Research various RL techniques to determine the most applicable strategy for this problem (MC vs TD, etc)
 
 - Investigate the need for specific RL agent initialization (instead of starting with a clean slate)
 
-- Develop an RL agent that is capable of improving over many iterations of playing the deception-based game
+- Develop an RL agent that is capable of improving over many iterations of playing Coup
 
 - Test the agent for improvement over many games with human opponent(s)
 
