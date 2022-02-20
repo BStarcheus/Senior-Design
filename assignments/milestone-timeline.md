@@ -5,7 +5,7 @@
 ## RL Agent
 Upon reaching this milestone I will have an RL agent that can play a deception-based game program and learn from experience. After training, testing, and verifying that this is a good implementation for the problem, I can use the agent to train itself for the next milestone.
 
-Completion Date: 1/28/22
+Completion Date: 3/4/22
 
 Deliverables
 - Environment that completely represents the board and rules of Coup
@@ -41,9 +41,9 @@ Deliverables
 | Design and develop a desktop application that interfaces with the Coup environment to allow for gameplay between the computer and human opponents | 11/5/21 | 1/28/21 |
 | Research various RL techniques to determine the most applicable strategy for this problem (MC vs TD, etc) | 11/5/21 | 1/28/21 |
 | Investigate the need for specific RL agent initialization (instead of starting with a clean slate) | 11/5/21 | 1/28/21 |
-| Develop an RL agent that is capable of improving over many iterations of playing Coup | 11/26/21 | 1/28/22 |
-| Test the agent for improvement over many games with human opponent(s) | 1/7/22 | 1/28/22 |
-| Milestone 1: RL Agent |  | 1/28/22 |
+| Develop an RL agent that is capable of improving over many iterations of playing Coup | 11/26/21 | 3/4/22 |
+| Test the agent for improvement over many games with human opponent(s) | 1/7/22 | 3/4/22 |
+| Milestone 1: RL Agent |  | 3/4/22 |
 | Research RL methods for self-play | 1/14/22 | 2/11/22 |
 | Develop a framework for self-play, where many agents play against each other and all learn from their experiences | 2/4/22 | 3/11/22 |
 | Validate the agent's improvement and convergence via self-play | 2/25/22 | 3/11/22 |

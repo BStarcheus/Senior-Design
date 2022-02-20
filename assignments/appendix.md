@@ -23,6 +23,11 @@
 - [Superstition in the Network: Deep Reinforcement Learning Plays Deceptive Games](https://arxiv.org/abs/1908.04436)
 - [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635)
 - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- [Reinforcement Learning In Two Player Zero Sum Simultaneous Action Games](https://arxiv.org/pdf/2110.04835.pdf)
+- [On Reinforcement Learning for Turn-based Zero-sum Markov Games](https://arxiv.org/pdf/2002.10620.pdf)
+- [Markov Games and Reinforcement Learning](https://isminoula.github.io/files/games.pdf)
+- [Potential-Based Shaping and Q-Value Initialization are Equivalent](https://www.aaai.org/Papers/JAIR/Vol19/JAIR-1907.pdf)
+- [Domain-Independent Optimistic Initialization for Reinforcement Learning](https://arxiv.org/pdf/1410.4604.pdf)
 
 ## Work Record
 | Work Description | Hours Spent |
