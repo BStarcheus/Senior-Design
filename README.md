@@ -16,7 +16,7 @@ The goal of Coup RL is to create a reinforcement learning agent that learns to p
 4. [Project Tasks](./assignments/tasklist.md) & [Timeline](./assignments/milestone-timeline.md)
 5. [Project Constraints](./assignments/constraints.md)
 6. Fall Presentation [Slides](https://docs.google.com/presentation/d/1mAg4HPND533sMZmpMaIAR64RTL_7l_LU41Adyv0q8Ls/edit?usp=sharing) & [Video](https://youtu.be/gkTmC7Terrk)
-7. Spring Presentation [Slides](https://docs.google.com/presentation/d/1xRHnQ_-Ms26Ga8S6cfu47KiQpO99We2ncn4sIN3XUrE/edit?usp=sharing) & [Video](https://youtu.be/PHoC3zcZa0o)
+7. Spring Presentation [Slides](https://docs.google.com/presentation/d/1xRHnQ_-Ms26Ga8S6cfu47KiQpO99We2ncn4sIN3XUrE/edit?usp=sharing) & [Video](https://youtu.be/3qmu-H8uVB4)
 8. [Poster](https://drive.google.com/file/d/1SREaLwky-Idh3Pjid5WWJB5g4lCqy0Av/view?usp=sharing)
 9. [Training & Test Results](./results/results.md)
 10. [Self-Assessment Essay](./assignments/capstone-assessment-starchbt.md)
