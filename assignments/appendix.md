@@ -29,10 +29,25 @@
 - [Potential-Based Shaping and Q-Value Initialization are Equivalent](https://www.aaai.org/Papers/JAIR/Vol19/JAIR-1907.pdf)
 - [Domain-Independent Optimistic Initialization for Reinforcement Learning](https://arxiv.org/pdf/1410.4604.pdf)
 
-## Work Record
+## Fall Semester Work Record
 | Work Description | Hours Spent |
 |-|-|
 | Senior Design course assignments | 12 |
 | Research & self learning | 13 |
 | Problem formulation and structuring | 15 |
 | Meetings with advisor | 6 |
+
+## Spring Semester Work Record
+| Work Description | Hours Spent |
+|-|-|
+| Senior Design course assignments | 12 |
+| Research & self learning | 6 |
+| Programming | 24 |
+| Testing | 5 |
+| Meetings with advisor | 3 |
+
+Since this was a solo team, Brandon did all assignments, research, development, testing, and more. Programming and development time was split between the three main submodules: desktop app, game logic environment, reinforcement learning. 
+
+Fall Total: 46
+Spring Total: 50
+Year Total: 96

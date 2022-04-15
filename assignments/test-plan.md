@@ -17,6 +17,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Unit
+    - Result: Passed for all configurations, including edge cases. Given an object initialization, it would call the chosen action function and verify the new state is correct.
 
 2. CoupEnv Integration Test
     - ID: CIT
@@ -28,6 +29,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Integration
+    - Result: Passed for all configurations. Specific edge cases were selected to test valid actions returned.
 
 3. CoupEnv RL Interfaces Test
     - ID: CRIT
@@ -39,6 +41,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Integration
+    - Result: Passed for all configurations. Many cases representative of the what the observations can represent were selected. For a configuration, an action was taken and the returned observation and reward were compared to the expected.
 
 ### Desktop App
 4. App Unit Test
@@ -51,6 +54,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Blackbox
     - Functional
     - Unit
+    - Result: Passed for all components. Worked as expected. Most components were built-in to PyQt, or with few modifications.
 
 5. App Game Initialization Test
     - ID: AGIT
@@ -62,6 +66,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Integration
+    - Result: Passed. Manually tested for different menu selections, file types.
 
 6. App General Actions Test
     - ID: AGAT
@@ -73,6 +78,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Blackbox
     - Functional
     - Integration
+    - Result: Passed for all configurations. Debug logs for the underlying environment and the app's appearance were compared, no discrepancies found.
 
 7. App Card Actions Test
     - ID: ACAT
@@ -84,6 +90,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Blackbox
     - Functional
     - Integration
+    - Result: Passed for all configurations. Manually tested for exchanges, assassinations, and coups. The card selection process succeeded and prevented invalid selections.
 
 8. App Agent Integration Test
     - ID: AAIT
@@ -95,6 +102,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Integration
+    - Result: Passed for all configurations. Manually tested with different filename types, menu selections.
 
 ### Reinforcement Learning Agent
 9. Agent Configuration Unit Test
@@ -107,6 +115,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Unit
+    - Result: Passed for all configurations. Manually tested with self-play script with different arguments.
 
 10. Agent Functionality Unit Test
     - ID: AFUT
@@ -118,6 +127,7 @@ Coup RL consists of several submodules, each with different necessary levels and
     - Whitebox
     - Functional
     - Unit
+    - Result: Passed. Manually ran episode against agent and examined debug log while also examining corresponding portions of previously saved Q-Table. Selected actions were those with largest Q-value, and updated values were as expected.
 
 ## Test Case Matrix
 | Test Case ID | Normal / Abnormal | Blackbox / Whitebox | Functional / Performance | Unit / Integration |
